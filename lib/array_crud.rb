@@ -18,9 +18,9 @@ def add_element_to_start_of_array(array, element)
 end
 
 def remove_element_from_end_of_array(array)
-  my_array = ['blue', 'green', 'black', 'arrays!']
-  new_arr = my_array.pop
-  new arr
+  array = ["I", "am", "really", "learning", "arrays!"]
+  puts array.pop
+end
 end
 
 def remove_element_from_start_of_array(array)
